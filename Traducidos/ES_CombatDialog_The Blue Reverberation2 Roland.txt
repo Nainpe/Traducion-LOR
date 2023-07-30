@@ -3,16 +3,16 @@
   <GroupName>The Blue Reverberation2 Roland</GroupName>
   <Character ID="R_A_Argalia">
     <Type ID="START_BATTLE">
-      <BattleDialog ID="START_BATTLE_0">The stage is calling for us… Are the curtains finally about to rise?</BattleDialog>
-      <BattleDialog ID="START_BATTLE_1">…Let the performance begin. This will be the overture to us and the change we’re about to usher to the world.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_0">La escena nos llama... ¿Está por fin a punto de levantarse el telón?.</BattleDialog>
+      <BattleDialog ID="START_BATTLE_1">...Que comience el espectaculo. Esta será nuestro comienzo y el cambio que vamos a introducir en el mundo.</BattleDialog>
     </Type>
     <Type ID="BATTLE_VICTORY" />
     <Type ID="DEATH">
-      <BattleDialog ID="DEATH_0">Roland… This won’t be how it ends…</BattleDialog>
+      <BattleDialog ID="DEATH_0">Roland... Esto no terminará así</BattleDialog>
     </Type>
     <Type ID="COLLEAGUE_DEATH" />
     <Type ID="KILLS_OPPONENT">
-      <BattleDialog ID="KILLS_OPPONENT_0">It seems there is no place for you on the stage, unfortunately.</BattleDialog>
+      <BattleDialog ID="KILLS_OPPONENT_0">Parece que no hay lugar para ti en el escenario, por desgracia.</BattleDialog>
     </Type>
   </Character>
   <Character ID="R_A_Roland">
