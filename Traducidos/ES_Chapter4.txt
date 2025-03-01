@@ -4,7 +4,7 @@
     <Title>Capítulo 4–Plaga Urbana–‘Él dice que no tengo una enfermedad.’</Title>
   </Chapter>
   <Group>
-    <GroupName>Prologo</GroupName>
+    <GroupName>Prólogo</GroupName>
     <Episode>
       <EpisodeName>Episodio 1</EpisodeName>
       <Place>
@@ -316,13 +316,13 @@
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch4_prol_ep1_roland27</VoiceFile>
-          <Content>Fui despachado a un distrito famoso por su pajeon, el cual era la comida favorita de mi esposa. Casi podia ver su boca haciéndose agua con la idea de comerlo cuando se despidió.</Content>
+          <Content>Fui despachado a un distrito famoso por su pajeon, el cual era la comida favorita de mi esposa. Casi podía ver su boca haciéndose agua con la idea de comerlo cuando se despidió.</Content>
         </Dialog>
         <Dialog ID="51" Model="롤랑">
           <Teller>Roland</Teller>
           <Title>Sirviente</Title>
           <VoiceFile>ch4_prol_ep1_roland28</VoiceFile>
-          <Content>Para cumplir las expectativas de mi media naranja, compre una caja de preservación por estasis de U Corp. para poder presentarle pajeon caliente salido recién de la cocina.</Content>
+          <Content>Para cumplir las expectativas de mi media naranja, compré una caja de preservación por estasis de U Corp. para poder presentarle pajeon caliente salido recién de la cocina.</Content>
         </Dialog>
         <Dialog ID="52" Model="롤랑">
           <Teller>Roland</Teller>
