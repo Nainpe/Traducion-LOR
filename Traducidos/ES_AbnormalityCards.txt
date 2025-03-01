@@ -2,7 +2,7 @@
 <AbnormalityCardsRoot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Sephirah SephirahType="Malkuth">
     <AbnormalityCard ID="ScorchedGirl_Walk">
-      <Abnormality>Chica Quemada</Abnormality>
+      <Abnormality>Niña Chamuscada</Abnormality>
       <CardName>Pisadas</CardName>
       <AbilityDesc>[Todos los Aliados]
 Cuando el HP de un bibliotecario es del 20% o menos, inflige 30% del HP Max del objetivo como daño (Max. 36) e inflige 1-3 Quemadura al acercarte a ellos, luego muere.</AbilityDesc>
@@ -17,7 +17,7 @@ Cuando el HP de un bibliotecario es del 20% o menos, inflige 30% del HP Max del 
     </AbnormalityCard>
 
     <AbnormalityCard ID="ScorchedGirl_Atk">
-      <Abnormality>Chica Quemada</Abnormality>
+      <Abnormality>Niña Chamuscada</Abnormality>
       <CardName>Cenizas</CardName>
       <AbilityDesc>[Un Solo Aliado]
 Al recibir un golpe, inflige 1-3 Quemaduras al atacante y obtén una mejora con un 40% de probabilidad en la siguiente Escena: "Los dados ofensivos infligen 1 Quemadura al golpear" (No se acumula).</AbilityDesc>
@@ -32,7 +32,7 @@ Al recibir un golpe, inflige 1-3 Quemaduras al atacante y obtén una mejora con 
     </AbnormalityCard>
 
     <AbnormalityCard ID="ScorchedGirl_Ashes">
-      <Abnormality>Chica Quemada</Abnormality>
+      <Abnormality>Niña Chamuscada</Abnormality>
       <CardName>Luz de Fósforo</CardName>
       <AbilityDesc>[Un Solo Aliado]
         Las dos primeras páginas de combate que usa el bibliotecario después de seleccionar esta página de anomalías para obtener el estado 'Luz de fósforo' (excluye las páginas [en juego]). Siempre que el bibliotecario use una página con 'Luz de fósforo', gana 1 'Brasas'.
