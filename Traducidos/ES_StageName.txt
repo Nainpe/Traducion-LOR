@@ -66,7 +66,7 @@
 
   <Name ID="210001">Baño de Sangre</Name>
   <Name ID="210002">Corazón de Aspiración</Name>
-  <Name ID="201001">Chica Quemada</Name>
+  <Name ID="201001">Niña Chamuscada</Name>
   <Name ID="201002">Oso de Peluche Feliz</Name>
   <Name ID="202001">Asesino Abandonado</Name>
   <Name ID="202002">Ayudante Integral</Name>
