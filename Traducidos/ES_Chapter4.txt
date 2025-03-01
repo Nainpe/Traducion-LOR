@@ -19,7 +19,7 @@
           <Teller>???</Teller>
           <Title>???</Title>
           <VoiceFile>ch4_prol_ep1_thelma1-01</VoiceFile>
-          <Content>Lo se, ese era el trato.</Content>
+          <Content>Lo sé, ese era el trato.</Content>
         </Dialog>
         <Dialog ID="2" Model="???">
           <Teller>???</Teller>
