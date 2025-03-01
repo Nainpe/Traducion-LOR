@@ -131,7 +131,7 @@
 
 
   <Name ID="209002">El Precio del Silencio</Name>
-  <Name ID="208002">Ave Castigador</Name>
+  <Name ID="208002">Ave Castigadora</Name>
 
 
   <Name ID="50009">La Niebla Roja</Name>
