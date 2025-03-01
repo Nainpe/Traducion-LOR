@@ -1856,7 +1856,7 @@ Si el HP del objetivo es del 25% o menos, destruye todos sus dados al ganar un e
     </AbnormalityCard>
 
     <AbnormalityCard ID="SmallBird_Punishment">
-      <Abnormality>Ave Castigador</Abnormality>
+      <Abnormality>Ave Castigadora</Abnormality>
       <CardName>Castigo</CardName>
       <AbilityDesc>[Un Solo Aliado]
 Después de recibir daño, el primer dado de la primera página que usa el bibliotecario en la siguiente Escena gana 2-4 de Poder. (Excluye páginas [En Juego])</AbilityDesc>
@@ -1869,7 +1869,7 @@ Después de recibir daño, el primer dado de la primera página que usa el bibli
     </AbnormalityCard>
 
     <AbnormalityCard ID="SmallBird_Beak">
-      <Abnormality>Ave Castigador</Abnormality>
+      <Abnormality>Ave Castigadora</Abnormality>
       <CardName>Pico Castigador</CardName>
       <AbilityDesc>[Un Solo Aliado]
 Los ataques del bibliotecario infligen daño adicional igual al número de Escenas que pasan sin que el bibliotecario reciba daño de los ataques. (Máx. 10)</AbilityDesc>
@@ -1882,7 +1882,7 @@ Los ataques del bibliotecario infligen daño adicional igual al número de Escen
     </AbnormalityCard>
 
     <AbnormalityCard ID="Smallbird_Fly">
-      <Abnormality>Ave Castigador</Abnormality>
+      <Abnormality>Ave Castigadora</Abnormality>
       <CardName>Pequeños Aleteos</CardName>
       <AbilityDesc>[Un Solo Aliado]
 Los dados de Evadir ganan 1-2 de Poder.
